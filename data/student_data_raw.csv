@@ -1,0 +1,27 @@
+student_id,name,email,subject,score,attendance,study_hours,previous_score,month
+S001,Aarav Sharma,aarav.sharma@email.com,Mathematics,85,92,4,78,Jan
+S002,Aarav Sharma,aarav.sharma@email.com,Science,78,92,4,78,Jan
+S003,Priya Patel,priya.patel@email.com,Mathematics,72,85,3,68,Jan
+S004,Priya Patel,priya.patel@email.com,Science,68,85,3,68,Jan
+S005,Rohan Gupta,rohan.gupta@email.com,Mathematics,91,95,5,88,Jan
+S006,Rohan Gupta,rohan.gupta@email.com,Science,89,95,5,88,Jan
+S007,Anjali Singh,anjali.singh@email.com,Mathematics,65,75,2,58,Jan
+S008,Anjali Singh,anjali.singh@email.com,Science,72,75,2,58,Jan
+S009,Vikram Reddy,vikram.reddy@email.com,Mathematics,88,90,4,82,Jan
+S010,Vikram Reddy,vikram.reddy@email.com,Science,76,90,4,82,Jan
+S011,Neha Verma,neha.verma@email.com,Mathematics,58,60,1,52,Jan
+S012,Neha Verma,neha.verma@email.com,Science,62,60,1,52,Jan
+S013,Karthik Nair,karthik.nair@email.com,Mathematics,94,98,5,92,Feb
+S014,Karthik Nair,karthik.nair@email.com,Science,90,98,5,92,Feb
+S015,Sonia John,sonia.john@email.com,Mathematics,70,80,3,65,Feb
+S016,Sonia John,sonia.john@email.com,Science,75,80,3,65,Feb
+S017,Arjun Malhotra,arjun.malhotra@email.com,Mathematics,82,88,4,78,Feb
+S018,Arjun Malhotra,arjun.malhotra@email.com,Science,79,88,4,78,Feb
+S019,Priya Patel,priya.patel@email.com,Mathematics,78,88,3,72,Feb
+S020,Priya Patel,priya.patel@email.com,Science,82,88,3,72,Feb
+S021,Amit Kumar,amit.kumar@email.com,Mathematics,55,58,1,48,Feb
+S022,Amit Kumar,amit.kumar@email.com,Science,50,58,1,48,Feb
+S023,Riya Sharma,riya.sharma@email.com,Mathematics,89,92,4,85,Mar
+S024,Riya Sharma,riya.sharma@email.com,Science,86,92,4,85,Mar
+S025,Deepak Singh,deepak.singh@email.com,Mathematics,67,72,2,60,Mar
+S026,Deepak Singh,deepak.singh@email.com,Science,71,72,2,60,Mar
